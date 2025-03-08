@@ -1,2 +1,2 @@
 # raspberry_pi_pico_projects
- Alguns exemplos de códigos em linguagem C testando o diversos componentes da plataforma BitDogLab que utiliza o Raspberry Pi Pico W (RP2040)
+ Some examples of code in C language testing the various components of the BitDogLab platform using the Raspberry Pi Pico W (RP2040)
